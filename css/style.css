@@ -628,3 +628,18 @@
 		text-align: center;
 		border-radius: 0px 0px 6px 6px;
 	}
+
+	.illustration-image-one, .illustration-image-two {
+		height: 100%;
+	}
+
+	.illustration-image-one {
+		border-top-left-radius: 6px;
+		border-bottom-left-radius: 6px;
+	}
+
+	.illustration-image-two {
+		border-top-right-radius: 6px;
+		border-top-right-radius: 6px;
+		float: right;
+	}
