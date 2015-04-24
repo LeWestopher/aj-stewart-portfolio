@@ -629,10 +629,6 @@
 		border-radius: 0px 0px 6px 6px;
 	}
 
-	.illustration-image-one, .illustration-image-two {
-		height: 100%;
-	}
-
 	.illustration-image-one {
 		border-top-left-radius: 6px;
 		border-bottom-left-radius: 6px;
@@ -642,4 +638,39 @@
 		border-top-right-radius: 6px;
 		border-top-right-radius: 6px;
 		float: right;
+	}
+
+	.illustration-header {
+		color: white;
+		font-size: 92px;
+	}
+
+	.illustration-text {
+		margin-top: 20px;
+		font-size: 32px;
+	}
+
+	#lightbox{
+		background-color:#eee;
+		padding: 10px;
+		border-bottom: 2px solid #666;
+		border-right: 2px solid #666;
+		}
+	#lightboxDetails{
+		font-size: 0.8em;
+		padding-top: 0.4em;
+		}
+	#lightboxCaption{ float: left; }
+	#keyboardMsg{ float: right; }
+
+	#lightbox img{ border: none; }
+	#overlay img{ border: none; }
+
+	#overlay{ background-image: url(overlay.png); }
+
+* html #overlay{
+	background-color: #000;
+	back\ground-color: transparent;
+	background-image: url(blank.gif);
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="overlay.png", sizingMethod="scale");
 	}
