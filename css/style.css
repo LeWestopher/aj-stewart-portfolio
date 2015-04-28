@@ -674,3 +674,5 @@
 	background-image: url(blank.gif);
 	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="overlay.png", sizingMethod="scale");
 	}
+	.item { width: 63%; margin-bottom: 20px; }
+.item.w2 { width: 50%; }
