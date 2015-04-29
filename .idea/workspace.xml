@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35f01677-5a64-4550-8a65-12a9b7652bdb" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\kyle\Desktop\AJ Portfolio\aj-stewart-portfolio\images\Portfolio (use this one wes).zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu1.jpg" afterPath="$PROJECT_DIR$/images/printz/stu1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu10.JPG" afterPath="$PROJECT_DIR$/images/printz/stu10.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu11.JPG" afterPath="$PROJECT_DIR$/images/printz/stu11.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu12.JPG" afterPath="$PROJECT_DIR$/images/printz/stu12.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu13.jpg" afterPath="$PROJECT_DIR$/images/printz/stu13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu14.jpg" afterPath="$PROJECT_DIR$/images/printz/stu14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu15.jpg" afterPath="$PROJECT_DIR$/images/printz/stu15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu16.jpg" afterPath="$PROJECT_DIR$/images/printz/stu16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu17.jpg" afterPath="$PROJECT_DIR$/images/printz/stu17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu18.jpg" afterPath="$PROJECT_DIR$/images/printz/stu18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu19.jpg" afterPath="$PROJECT_DIR$/images/printz/stu19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu2.jpg" afterPath="$PROJECT_DIR$/images/printz/stu2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu20.jpg" afterPath="$PROJECT_DIR$/images/printz/stu20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu21.jpg" afterPath="$PROJECT_DIR$/images/printz/stu21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu3.jpg" afterPath="$PROJECT_DIR$/images/printz/stu3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu4.jpg" afterPath="$PROJECT_DIR$/images/printz/stu4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu5.jpg" afterPath="$PROJECT_DIR$/images/printz/stu5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu6.jpg" afterPath="$PROJECT_DIR$/images/printz/stu6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu7.jpg" afterPath="$PROJECT_DIR$/images/printz/stu7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu8.jpg" afterPath="$PROJECT_DIR$/images/printz/stu8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/printz/stu9.jpg" afterPath="$PROJECT_DIR$/images/printz/stu9.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="aj-stewart-portfolio.iws" />
@@ -31,8 +51,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.60342145" vertical-offset="7517" max-vertical-offset="13022">
-              <caret line="465" column="165" selection-start-line="465" selection-start-column="165" selection-end-line="465" selection-end-column="165" />
+            <state vertical-scroll-proportion="1.4805598" vertical-offset="2941" max-vertical-offset="13005">
+              <caret line="229" column="0" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -455,8 +475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60342145" vertical-offset="7517" max-vertical-offset="13022">
-          <caret line="465" column="165" selection-start-line="465" selection-start-column="165" selection-end-line="465" selection-end-column="165" />
+        <state vertical-scroll-proportion="1.4805598" vertical-offset="2941" max-vertical-offset="13005">
+          <caret line="229" column="0" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
